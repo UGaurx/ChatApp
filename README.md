@@ -1,7 +1,7 @@
 ## Run the following commands in order
 
 ```
-cd chat-app
+cd chatapp
 ```
 Update mongoDB uri in config/keys.js
 
